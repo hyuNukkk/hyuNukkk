@@ -16,7 +16,6 @@
 ### 🏆 Solved.ac Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ed_hacker)](https://solved.ac/profile/ed_hacker)
 
----
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
