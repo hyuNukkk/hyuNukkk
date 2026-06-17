@@ -2,8 +2,16 @@
 
 - 🎓 **Hongik University** | Computer Science & Engineering (2022.03 ~ Present)
 - 💻 Interested in **Java** and **Spring Framework**
-- 🚀 Focused on **Backend Development**
+- 🚀 Focused on **AI-Integrated Backend & Data Pipelines**
 
+### 🚀 Activities
+- **Google Developer Group 25-1** | Backend Part Member
+- **Google Developer Group 25-1** | Project Track
+
+### 💻 Projects
+- **Dog-Date** – Dog Social Matching Service (GDG Project Track, Team Leader & BE)
+- **NewsTailor** – AI-based News Summarization Service (Graduation Project, Team Leader & BE)
+- **CoInsight** – Crypto News Sentiment Analysis & Price Prediction Service (Side Project, BE Member)
 <br />
 
 ### 🏆 Solved.ac Tier
