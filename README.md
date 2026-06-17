@@ -1,17 +1,17 @@
 ### Hi there 👋 I'm Kang Hyun-uk
 
-- 🎓 **Hongik University** | Computer Science & Engineering (2022.03 ~ Present)
+- 🎓 **Hongik University** | Computer Science & Engineering <small>(2022.03 ~ Present)</small>
 - 💻 Interested in **Java** and **Spring Framework**
 - 🚀 Focused on **AI-Integrated Backend & Data Pipelines**
 
 ### 🚀 Activities
-- **Google Developer Group 25-1** | Backend Part Member
-- **Google Developer Group 25-1** | Project Track
+- **Google Developer Group ** | Backend Part Member
+- **Google Developer Group ** | Project Track
 
 ### 💻 Projects
-- **Dog-Date** – Dog Social Matching Service (GDG Project Track, Team Leader & BE)
-- **NewsTailor** – AI-based News Summarization Service (Graduation Project, Team Leader & BE)
-- **CoInsight** – Crypto News Sentiment Analysis & Price Prediction Service (Side Project, BE Member)
+- **Dog-Date** – Dog Social Matching Service <small>(GDG Project Track, Team Leader & BE)</small>
+- **NewsTailor** – AI-based News Summarization Service <small>(Graduation Project, Team Leader & BE)</small>
+- **CoInsight** – Crypto News Sentiment Analysis & Price Prediction Service <small>(Side Project, BE Member)</small>
 
 ### 🏆 Solved.ac Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ed_hacker)](https://solved.ac/profile/ed_hacker)
