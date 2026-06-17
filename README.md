@@ -12,7 +12,6 @@
 - **Dog-Date** – Dog Social Matching Service (GDG Project Track, Team Leader & BE)
 - **NewsTailor** – AI-based News Summarization Service (Graduation Project, Team Leader & BE)
 - **CoInsight** – Crypto News Sentiment Analysis & Price Prediction Service (Side Project, BE Member)
-<br />
 
 ### 🏆 Solved.ac Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ed_hacker)](https://solved.ac/profile/ed_hacker)
