@@ -5,8 +5,8 @@
 - 🚀 Focused on **AI-Integrated Backend & Data Pipelines**
 
 ### 🚀 Activities
-- **Google Developer Group ** | Backend Part Member
-- **Google Developer Group ** | Project Track
+- **Google Developer Group** | Backend Part Member
+- **Google Developer Group** | Project Track
 
 ### 💻 Projects
 - **Dog-Date** – Dog Social Matching Service <small>(GDG Project Track, Team Leader & BE)</small>
